@@ -1,0 +1,6 @@
+/code/project/cmake-study/build/CMakeFiles/rebuild_cache.dir
+/code/project/cmake-study/build/CMakeFiles/edit_cache.dir
+/code/project/cmake-study/build/CMakeFiles/cmake-study.dir
+/code/project/cmake-study/build/myfunc/CMakeFiles/edit_cache.dir
+/code/project/cmake-study/build/myfunc/CMakeFiles/rebuild_cache.dir
+/code/project/cmake-study/build/myfunc/CMakeFiles/myfunc.dir

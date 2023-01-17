@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/code/project/cmake-study/myfunc/myfunc.h
+
+/code/project/cmake-study/src/main.cpp
+iostream
+-
+../myfunc/myfunc.h
+/code/project/cmake-study/myfunc/myfunc.h
+
