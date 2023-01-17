@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/cmake-study.dir/src/main.cpp.o  -o cmake-study  -Wl,-rpath,/code/project/cmake-study/build/myfunc myfunc/libmyfunc.so 
