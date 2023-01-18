@@ -8,3 +8,5 @@ aux_source_directory(. SRCS)
 
 add_library(${CURRENT_FOLDER} SHARED ${SRCS})
 
+install(TARGETS ${PROJECT_NAME} DESTINATION lib)
+install(FILES ${PROJECT_NAME}.h DESTINATION include)

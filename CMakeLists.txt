@@ -46,3 +46,6 @@ include_directories(${PROJECT_BINARY_DIR}/src)
 add_executable(${PROJECT_NAME} ${SRCS})
 
 target_link_libraries(${PROJECT_NAME} ${EXTRA_LIBS})
+
+install(TARGETS ${PROJECT_NAME} DESTINATION bin)
+install(FILES "${PROJECT_BINARY_DIR}/src/config.h" DESTINATION include)
